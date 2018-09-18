@@ -4,7 +4,9 @@ R Markdown for data exploration homework
 Setting up
 ----------
 
-The data we'll analyze is contained in the `gapminder` R package. If not installed, run `install.packages("gapminder")` first.
+The data we'll analyze is contained in the `gapminder` R package.
+
+If not installed, run `install.packages("gapminder")` first.
 
 ``` r
 library(gapminder)
