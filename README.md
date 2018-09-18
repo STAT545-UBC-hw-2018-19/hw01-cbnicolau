@@ -1,17 +1,20 @@
 # Repository for Homework 01
 
 This is Constanza's repository for Homework 01 - STAT545A Fall 2018 edition.
-
 The course webpage can be found [here](http://stat545.com/Classroom/).
 
-
 ### Navigation
-Still need to add something to help visitor to navigate the repository
+
+This repo contains:
+1. README file (this one)
+2. Instructions ([here](https://github.com/STAT545-UBC-students/hw01-cbnicolau/blob/master/hw01_instructions.md))
+2. R Markdown file for the data exploration ([this one](https://github.com/STAT545-UBC-students/hw01-cbnicolau/blob/master/hw001_gapminder.Rmd))
+3. Markdown file for the data exploration ([this one](https://github.com/STAT545-UBC-students/hw01-cbnicolau/blob/master/hw001_gapminder.md))
 
 ### Homework tasks completion
 
 - [x] Readme file
-- [ ] Navigation section
+- [x] Navigation section
 - [x] About me section
 - [x] Image added
 - [x] R Markdown for data exploration
@@ -24,5 +27,5 @@ Still need to add something to help visitor to navigate the repository
 * Dislikes *waking up early* and __coriander__
 
 That's all\! Here is a goodbye comic for you
-![GitHub Logo](http://files.explosm.net/comics/Rob/comic.png?t=657743)
+![Comic](http://files.explosm.net/comics/Rob/comic.png?t=657743)
 
