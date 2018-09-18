@@ -14,7 +14,7 @@ Still need to add something to help visitor to navigate the repository
 - [ ] Navigation section
 - [x] About me section
 - [x] Image added
-- [ ] R Markdown for data exploration
+- [x] R Markdown for data exploration
 - [ ] Reflection
 
 ### About Constanza
