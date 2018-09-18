@@ -81,7 +81,7 @@ Using `str` we see the variables *continent* and *country* are categorical (fact
 
 ```{r}
 str(gapminder$continent)
-barplot(table(gapminder$continent))
+(barplot(table(gapminder$continent)))
 ```
  
 #### Boxplots

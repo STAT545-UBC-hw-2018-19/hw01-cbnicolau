@@ -134,10 +134,17 @@ str(gapminder$continent)
     ##  Factor w/ 5 levels "Africa","Americas",..: 3 3 3 3 3 3 3 3 3 3 ...
 
 ``` r
-barplot(table(gapminder$continent))
+(barplot(table(gapminder$continent)))
 ```
 
 ![](hw001_gapminder_files/figure-markdown_github/unnamed-chunk-9-1.png)
+
+    ##      [,1]
+    ## [1,]  0.7
+    ## [2,]  1.9
+    ## [3,]  3.1
+    ## [4,]  4.3
+    ## [5,]  5.5
 
 #### Boxplots
 
